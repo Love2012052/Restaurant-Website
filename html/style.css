@@ -1,0 +1,242 @@
+body{
+    margin: 0px;
+}
+/*menubar*/
+#div1{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#menubar{
+    overflow: auto;
+    background-color: #000000;
+    margin: 0px;
+    list-style-type: none;
+    padding: 0px;
+    text-align: center;
+}
+.mbar{
+    width: 16.66%;
+    float: left;
+}
+.menubtn{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 0px;
+    display: inline-block;
+    width: 100%;
+    color: #F0A500;
+}
+.menubtn:hover{
+    background-color: #F0A500;
+    border-radius: 10px;
+    color: #000000;
+}
+/*home*/
+#div2{
+    background-image: url('rest.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 663px;
+    text-align: center;
+    color: white;
+}
+#head1{
+    margin: 0px;
+    padding-top: 213px;
+    font-size: 40px;
+}
+#para{
+    font-size: 20px;
+    margin: 0px;
+    padding: 20px 0px 40px 0px;
+}
+.ourmenu1{
+    text-decoration: none;
+    border: 2px solid white;
+    color: #F0A500;
+    border-radius: 60px;
+    padding: 20px 60px;
+    font-size: 30px;
+    display: inline-block;
+}
+.ourmenu1:hover{
+    background-color: #F0A500;
+    border-color: #F0A500;
+    color: #000000;
+}
+/*about*/
+.div3{
+    background-color: #000000;
+    margin: 0px;
+    padding: 63px 40px 100px 40px;
+    text-align: center;
+    color: white;
+}
+.head2{
+    margin: 0px;
+    padding: 10px 0px;
+    color: #F0A500;
+}
+.head3{
+    margin: 0px;
+    padding: 10px 0px 30px 0px;
+}
+.div4{
+    overflow: auto;
+}
+#div4c1{
+    float: left;
+    width: 50%;
+    padding-right: 2%;
+    text-align: left;
+}
+#head4{
+    margin: 0px;
+    padding-bottom: 20px;
+}
+.p1{
+    margin: 0px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+#div4c2{
+    float: left;
+    width: 48%;
+    background-image: url('rbackground.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #000000;
+    text-align: right;
+}
+.head7{
+    margin: 0px;
+    padding: 10px 0px;
+}
+#years{
+    padding: 197.25px 40px 197.25px 0px;
+}
+/*menu*/
+#Ourmenu{
+    background-color: #334756;
+    margin: 0px;
+    padding: 63px 150px 100px 150px;
+    text-align: center;
+    color: white;
+}
+.div4c{
+    float: left;
+    width: 50%;
+}
+.padding{
+    padding: 20px;
+    overflow: auto;
+}
+.padding:hover{
+    padding: 18px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.div4ca{
+    font-size: 0px;
+    float: left;
+    width: 20%;
+    height: 95.8px;
+}
+.div4cb{
+    float: left;
+    padding-left: 10%;
+    width: 30%;
+    text-align: left;
+}
+.div4cc{
+    float: left;
+    padding-right: 10%;
+    width: 30%;
+    text-align: right;
+    color: #F0A500;
+}
+.head5{
+    margin: 0px;
+    padding: 36.4px 0px;
+    font-size: 20px;
+}
+.head6{
+    margin: 0px;
+    padding: 20px 0px;
+}
+/*testimonoals*/
+#Testimonials{
+    background-color: #082032;
+}
+#divp{
+    overflow: auto;
+    padding-top: 30px;
+}
+.divc{
+    float: left;
+    width: 29.33%;
+    text-align: left;
+    padding: 0% 2%;
+    height: 291.09px;
+}
+#div5{
+    overflow: auto;
+    padding: 20px 0px 10px 0px;
+}
+.divc:hover{
+    border-radius: 20px;
+    background-color: #F0A500;
+    color: #000000;
+}
+.divc1a{
+    float: left;
+    width: 70%;
+    height: 110.69px;
+}
+.divc1b{
+    float: left;
+    width: 30%;
+    font-size: 0px;
+    height: 50px;
+    height: 110.69px;
+}
+.circle{
+    border-radius: 50%;
+}
+/*team*/
+.div4ch{
+    float: left;
+    width: 29.33%;
+    padding: 0% 2%;
+}
+.div4cha{
+    font-size: 0px;
+    height: 350px;
+}
+.div4chb{
+    background-color: white;
+    color: #000000;
+}
+/*contact*/
+#Contact{
+    background-color: #F0A500;
+    padding: 50px 40px 0px 40px;
+    color: #000000;
+    text-align: center
+}
+.cc{
+    float: left;
+    width: 33.33%;
+}
+#div4a{
+    overflow: auto;
+    padding-bottom: 50px;
+}
+hr{
+    margin: 0px;
+    border-width: 2px;
+}
+#font{
+    font-size: 22px;
+}
